@@ -3,7 +3,7 @@ layout: promo-page
 title: AUBERT Quentin 
 description: " CV AUBERT Quentin"
 menubar: menu_bar
-hero_image: assets/imgs/IMG_0423.jpg
+hero_image:assets/imgs/IMG_0423%202.jpg
 hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
