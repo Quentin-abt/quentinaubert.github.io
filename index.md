@@ -12,9 +12,9 @@ hero_image_ratio: is-1by1
 
 Elève ingénieur en 1ère année en cycle pré ingénieur 
 
-Disponible 3 mois à partir de 
+Disponible 3 mois à partir du 14 Juin 2025
 
-[Prenom.Nom[at]xxx.com](mailto:Prenom.Nom@xxx.com)
+E-mail : quentinaubert2605@gmail.com 
 
 [LinkedIn](https://www.linkedin.com/in/Prenom.Nom)
 
